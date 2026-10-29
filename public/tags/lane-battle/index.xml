@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Lane Battle on Games</title>
+        <link>http://localhost:1313/tags/lane-battle/</link>
+        <description>Recent content in Lane Battle on Games</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 28 Oct 2026 00:02:58 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/lane-battle/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Compile</title>
+            <link>http://localhost:1313/games/compile/</link>
+            <pubDate>Wed, 28 Oct 2026 00:02:58 +0100</pubDate>
+            <guid>http://localhost:1313/games/compile/</guid>
+            <description>&lt;img src=&#34;http://localhost:1313/games/compile/cover.webp&#34; alt=&#34;Featured image of post Compile&#34; /&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://boardgamegeek.com/boardgame/406652&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;Board Game Geek&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+        </item><item>
+            <title>Air Land Sea</title>
+            <link>http://localhost:1313/games/air_land_sea/</link>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/games/air_land_sea/</guid>
+            <description>&lt;img src=&#34;http://localhost:1313/games/air_land_sea/cover.webp&#34; alt=&#34;Featured image of post Air Land Sea&#34; /&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://boardgamegeek.com/boardgame/247367&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;Board Game Geek&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+        </item></channel>
+</rss>

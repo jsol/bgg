@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pub on Games</title>
+        <link>http://localhost:1313/tags/pub/</link>
+        <description>Recent content in Pub on Games</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 28 Oct 2026 00:02:58 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/pub/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Arboretum</title>
+            <link>http://localhost:1313/games/arboretum/</link>
+            <pubDate>Wed, 28 Oct 2026 00:02:58 +0100</pubDate>
+            <guid>http://localhost:1313/games/arboretum/</guid>
+            <description>&lt;img src=&#34;http://localhost:1313/games/arboretum/cover.webp&#34; alt=&#34;Featured image of post Arboretum&#34; /&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://boardgamegeek.com/boardgame/140934&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;Board Game Geek&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+        </item><item>
+            <title>Cockroach Poker</title>
+            <link>http://localhost:1313/games/cockroach_poker/</link>
+            <pubDate>Wed, 28 Oct 2026 00:02:58 +0100</pubDate>
+            <guid>http://localhost:1313/games/cockroach_poker/</guid>
+            <description>&lt;img src=&#34;http://localhost:1313/games/cockroach_poker/cover.webp&#34; alt=&#34;Featured image of post Cockroach Poker&#34; /&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://boardgamegeek.com/boardgame/11971&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;Board Game Geek&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+        </item><item>
+            <title>Collect</title>
+            <link>http://localhost:1313/games/collect/</link>
+            <pubDate>Wed, 28 Oct 2026 00:02:58 +0100</pubDate>
+            <guid>http://localhost:1313/games/collect/</guid>
+            <description>&lt;img src=&#34;http://localhost:1313/games/collect/cover.webp&#34; alt=&#34;Featured image of post Collect&#34; /&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://boardgamegeek.com/boardgame/453893&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;Board Game Geek&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+        </item></channel>
+</rss>

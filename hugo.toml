@@ -1,0 +1,27 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'Games'
+
+[taxonomies]
+    category = "categories"
+    tag = "tags"
+    player = "players"
+    mechanism = "mechanisms"
+
+[params]
+    # This tells Hugo to include both posts and games in list feeds
+    mainSections = ["post", "games"]
+       [params.widgets]
+        # Widgets that will display on the homepage/archives sidebar
+        homepage = [
+            { type = "search" },
+            { type = "categories", params = { limit = 10 } },
+            { type = "tag-cloud", params = { limit = 15 } }
+        ]
+        # Widgets that will display alongside individual pages/posts
+        page = [
+            { type = "toc" } # Renders a Table of Contents for your text
+        ]
+
+[[module.imports]]
+    path = "github.com/CaiJimmy/hugo-theme-stack/v4"

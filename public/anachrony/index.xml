@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Anachronies on Games</title>
+        <link>http://localhost:1313/anachrony/</link>
+        <description>Recent content in Anachronies on Games</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 28 Oct 2026 00:02:58 +0100</lastBuildDate><atom:link href="http://localhost:1313/anachrony/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Anachrony</title>
+            <link>http://localhost:1313/anachrony/anachrony/</link>
+            <pubDate>Wed, 28 Oct 2026 00:02:58 +0100</pubDate>
+            <guid>http://localhost:1313/anachrony/anachrony/</guid>
+            <description>&lt;img src=&#34;http://localhost:1313/anachrony/anachrony/cover.webp&#34; alt=&#34;Featured image of post Anachrony&#34; /&gt;</description>
+        </item></channel>
+</rss>

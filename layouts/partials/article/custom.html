@@ -1,0 +1,21 @@
+<div class="article-metadata-custom" style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; margin-bottom: 10px;">
+    
+    <!-- Render Player Count Buttons -->
+    {{ if .Params.players }}
+        {{ range .Params.players }}
+            <a href="{{ "players/" | relURL }}{{ . | urlize }}/" style="background-color: var(--card-background); border: 1px solid var(--border-color); color: var(--card-text-color); padding: 4px 10px; border-radius: 20px; font-size: 0.8rem; text-decoration: none; display: inline-flex; align-items: center; gap: 4px;">
+                👥 {{ . | replace "-" " " | title }}
+            </a>
+        {{ end }}
+    {{ end }}
+
+    <!-- Render Mechanism Buttons -->
+    {{ if .Params.mechanisms }}
+        {{ range .Params.mechanisms }}
+            <a href="{{ "mechanisms/" | relURL }}{{ . | urlize }}/" style="background-color: var(--accent-color-transparent, #eaeaea); color: var(--accent-color, #333); padding: 4px 10px; border-radius: 6px; font-size: 0.8rem; text-decoration: none; font-weight: 500;">
+                ⚙️ {{ . | replace "-" " " | title }}
+            </a>
+        {{ end }}
+    {{ end }}
+    
+</div>

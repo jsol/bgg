@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tech Tree on Games</title>
+        <link>http://localhost:1313/tags/tech-tree/</link>
+        <description>Recent content in Tech Tree on Games</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 28 Oct 2026 00:02:58 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/tech-tree/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Beyond the Sun</title>
+            <link>http://localhost:1313/games/beyond_the_sun/</link>
+            <pubDate>Wed, 28 Oct 2026 00:02:58 +0100</pubDate>
+            <guid>http://localhost:1313/games/beyond_the_sun/</guid>
+            <description>&lt;img src=&#34;http://localhost:1313/games/beyond_the_sun/cover.webp&#34; alt=&#34;Featured image of post Beyond the Sun&#34; /&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://boardgamegeek.com/boardgame/317985&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;Board Game Geek&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+        </item><item>
+            <title>Anno 1800</title>
+            <link>http://localhost:1313/games/anno_1800/</link>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/games/anno_1800/</guid>
+            <description>&lt;img src=&#34;http://localhost:1313/games/anno_1800/cover.webp&#34; alt=&#34;Featured image of post Anno 1800&#34; /&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://boardgamegeek.com/boardgame/311193&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;Board Game Geek&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+        </item></channel>
+</rss>
