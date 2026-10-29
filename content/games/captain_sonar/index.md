@@ -1,12 +1,12 @@
 ---
-date: '2026-10-28T00:02:58+01:00'
 draft: false
 title: 'Captain Sonar'
 image: cover.webp
-tags:
+categories:
   - 6 players
   - 7 players
   - 8 players
+tags:
   - real time
   - deduction
   - teams

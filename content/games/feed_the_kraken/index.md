@@ -1,9 +1,8 @@
 ---
-date: '2026-10-28T00:02:58+01:00'
 draft: false
 title: 'Feed the Kraken'
 image: cover.webp
-tags:
+categories:
   - 5 players
   - 6 players
   - 7 players
@@ -11,6 +10,7 @@ tags:
   - 9 players
   - 10 players
   - 11 players
+tags:
   - traitor
   - deduction
 ---

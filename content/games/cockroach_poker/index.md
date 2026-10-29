@@ -1,12 +1,12 @@
 ---
-date: '2026-10-28T00:02:58+01:00'
 draft: false
 title: 'Cockroach Poker'
 image: cover.webp
-tags:
+categories:
   - 4 players
   - 5 players
   - 6 players
+tags:
   - card game
   - pub
 ---

@@ -1,12 +1,12 @@
 ---
-date: '2026-10-28T00:02:58+01:00'
 draft: false
 title: 'Carcassonne'
 image: cover.jpg
-tags:
+categories:
   - 2 players
   - 3 players
   - 4 players
+tags:
   - tile placement
 ---
 

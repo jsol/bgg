@@ -1,9 +1,8 @@
 ---
-date: '2026-10-28T00:02:58+01:00'
 draft: false
 title: 'Cairn'
 image: cover.webp
-tags:
+categories:
   - 2 players
 ---
 

@@ -2,10 +2,11 @@
 draft: false
 title: 'Hive Pocket'
 image: cover.webp
-tags:
+categories:
   - 2 players
   - 3 players
   - 4 players
+tags:
   - worker placement
 ---
 
