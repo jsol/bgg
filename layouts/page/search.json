@@ -1,0 +1,16 @@
+{{- $pages := where .Site.RegularPages "Section" "games" -}}
+{{- $result := slice -}}
+
+{{- range $pages -}}
+    {{- /* Leave content empty so the theme searches game titles only. */ -}}
+    {{- $data := dict "title" .Title "date" .Date "permalink" .RelPermalink "content" "" -}}
+
+    {{- $image := partial "helper/image" (dict "Image" .Params.image "Resources" .Resources "Context" .) -}}
+    {{- if $image -}}
+        {{- $data = merge $data (dict "image" $image.Permalink) -}}
+    {{- end -}}
+
+    {{- $result = $result | append $data -}}
+{{- end -}}
+
+{{ jsonify $result }}
