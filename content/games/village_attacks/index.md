@@ -7,7 +7,7 @@ categories:
   - 3 players
   - 4 players
 tags:
-  - worker placement
+  - coop
 ---
 
 [Board Game Geek](https://boardgamegeek.com/boardgame/212281)

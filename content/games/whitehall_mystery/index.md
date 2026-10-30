@@ -7,7 +7,8 @@ categories:
   - 3 players
   - 4 players
 tags:
-  - worker placement
+  - bluffing
+  - deduction
 ---
 
 [Board Game Geek](https://boardgamegeek.com/boardgame/190082)

@@ -8,6 +8,7 @@ categories:
   - 4 players
 tags:
   - card game
+  - tableau builder
 ---
 
 [Board Game Geek](https://boardgamegeek.com/boardgame/391163)

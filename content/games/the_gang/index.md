@@ -3,11 +3,17 @@ draft: false
 title: 'The Gang'
 image: cover.webp
 categories:
-  - 2 players
-  - 3 players
   - 4 players
+  - 5 players
+  - 6 players
+  - 7 players
+  - 8 players
+  - 9 players
+  - 10 players
 tags:
-  - worker placement
+  - coop
+  - card game
+  - pub
 ---
 
 [Board Game Geek](https://boardgamegeek.com/boardgame/411567)

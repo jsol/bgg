@@ -8,6 +8,7 @@ categories:
   - 4 players
 tags:
   - worker placement
+  - event
 ---
 
 [Board Game Geek](https://boardgamegeek.com/boardgame/328866)

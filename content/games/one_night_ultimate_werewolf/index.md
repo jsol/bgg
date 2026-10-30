@@ -3,11 +3,13 @@ draft: false
 title: 'One Night Ultimate Werewolf'
 image: cover.webp
 categories:
-  - 2 players
-  - 3 players
-  - 4 players
+  - 6 players
+  - 7 players
+  - 8 players
 tags:
-  - worker placement
+  - pub
+  - deduction
+  - traitor
 ---
 
 [Board Game Geek](https://boardgamegeek.com/boardgame/147949)

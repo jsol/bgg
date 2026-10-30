@@ -1,13 +1,14 @@
 ---
 draft: false
-title: 'Isle of Skye  176494'
+title: 'Isle of Skye'
 image: cover.webp
 categories:
-  - 2 players
   - 3 players
   - 4 players
+  - 5 players
 tags:
-  - worker placement
+  - tile placement
+  - auction
 ---
 
-[Board Game Geek](https://boardgamegeek.com/boardgame/Isle of Skye  176494)
+[Board Game Geek](https://boardgamegeek.com/boardgame/176494)

@@ -4,10 +4,8 @@ title: 'Sakura Arms'
 image: cover.webp
 categories:
   - 2 players
-  - 3 players
-  - 4 players
 tags:
-  - worker placement
+  - card game
 ---
 
 [Board Game Geek](https://boardgamegeek.com/boardgame/204493)

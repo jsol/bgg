@@ -3,11 +3,12 @@ draft: false
 title: 'Room 25'
 image: cover.webp
 categories:
-  - 2 players
-  - 3 players
   - 4 players
+  - 5 players
+  - 6 players
 tags:
-  - worker placement
+  - deduction
+  - traitor
 ---
 
 [Board Game Geek](https://boardgamegeek.com/boardgame/127024)

@@ -3,11 +3,10 @@ draft: false
 title: 'Onirim'
 image: cover.webp
 categories:
+  - solo
   - 2 players
-  - 3 players
-  - 4 players
 tags:
-  - worker placement
+  - card game
 ---
 
 [Board Game Geek](https://boardgamegeek.com/boardgame/156336)

@@ -7,7 +7,8 @@ categories:
   - 3 players
   - 4 players
 tags:
-  - worker placement
 ---
+
+Both sets, so all four factions
 
 [Board Game Geek](https://boardgamegeek.com/boardgame/2316)

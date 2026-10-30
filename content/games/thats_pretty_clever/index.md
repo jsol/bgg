@@ -7,7 +7,9 @@ categories:
   - 3 players
   - 4 players
 tags:
-  - worker placement
+  - roll and write
 ---
+
+Also the follow up twice as clever.
 
 [Board Game Geek](https://boardgamegeek.com/boardgame/244522)

@@ -3,11 +3,12 @@ draft: false
 title: 'Mysterium'
 image: cover.webp
 categories:
-  - 2 players
-  - 3 players
-  - 4 players
+  - 5 players
+  - 6 players
+  - 7 players
 tags:
-  - worker placement
+  - coop
+  - deduction
 ---
 
 [Board Game Geek](https://boardgamegeek.com/boardgame/181304)

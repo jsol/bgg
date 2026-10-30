@@ -3,11 +3,11 @@ draft: false
 title: 'The Grizzled'
 image: cover.webp
 categories:
-  - 2 players
-  - 3 players
   - 4 players
+  - 5 players
 tags:
-  - worker placement
+  - coop
+  - card game
 ---
 
 [Board Game Geek](https://boardgamegeek.com/boardgame/171668)

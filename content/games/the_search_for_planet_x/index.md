@@ -7,7 +7,8 @@ categories:
   - 3 players
   - 4 players
 tags:
-  - worker placement
+  - deduction
+  - app
 ---
 
 [Board Game Geek](https://boardgamegeek.com/boardgame/279537)
